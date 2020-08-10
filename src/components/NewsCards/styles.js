@@ -22,4 +22,7 @@ export default makeStyles({
     width: '100%',
     margin: 0,
   },
+  h6: {
+    fontSize: '15px',
+  },
 });
