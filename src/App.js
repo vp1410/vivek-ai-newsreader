@@ -58,8 +58,9 @@ const App = () => {
           </div>
         ) : null}
         <img
-          src="https://alan.app/voice/images/previews/preview.jpg"
+          src="https://46ba123xc93a357lc11tqhds-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/alan.jpg"
           className={classes.alanLogo}
+          alt="x"
         ></img>
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
